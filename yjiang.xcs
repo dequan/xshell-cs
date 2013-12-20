@@ -1,0 +1,23 @@
+[Yjiang's Cake]
+text(bold)=c0c0c0
+magenta(bold)=ff55ff
+text=c0c0c0
+white(bold)=ffffff
+green=00c000
+red(bold)=ff5555
+green(bold)=55ff55
+black(bold)=555555
+red=c00000
+blue=0000c0
+black=042028
+blue(bold)=5555ff
+yellow(bold)=ffff55
+cyan(bold)=55ffff
+yellow=c0c000
+magenta=c000c0
+background=042028
+white=c0c0c0
+cyan=00c0c0
+[Names]
+count=1
+name0=Yjiang's Cake

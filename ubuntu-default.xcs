@@ -1,0 +1,23 @@
+[ubuntu default]
+background=FFFFDD
+text=000000
+text(bold)=000000
+black=555753
+black(bold)=2E3436
+red=CC0000
+red(bold)=EF2929
+green=00c000
+green(bold)=4E9A06
+yellow=C4A000
+yellow(bold)=FCE94F
+blue=3465A4
+blue(bold)=729FCF
+magenta=c000c0
+magenta(bold)=ff55ff
+cyan=06989A
+cyan(bold)=34E2E2
+white=D3D7CF
+white(bold)=EEEEEC
+[Names]
+count=1
+name0=ubuntu default
